@@ -6,7 +6,7 @@ Python3.8.5
 使用モジュール
 ・PIL(pillow)
   画像変換, ペイント
-・sklearn(scikit-learn)
+・sklearn(scikit-learn), keras
   機械学習モデル
 ・matplotlib
   画像の表示
